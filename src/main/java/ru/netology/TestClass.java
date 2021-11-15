@@ -2,6 +2,9 @@ package ru.netology;
 
 public class TestClass {
     public static void main(String[] args) {
-        System.out.println("Try learning Java");
+        int a = 5;
+        int b = 7;
+        int resultate = a*b;
+        System.out.println(resultate);
     }
 }
